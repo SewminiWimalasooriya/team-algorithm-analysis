@@ -13,11 +13,11 @@ Each team member implemented one algorithm and measured its performance for inpu
 ## 📁 Project Structure
 
 team-algorithm-analysis
-├── Member1_LinearSearch.java
-├── Member2_BinarySearch.java
-├── Member3_BubbleSort.java
-├── Member4_QuickSort.java
-└── TeamRunner.java
+- Member1_LinearSearch.java
+-Member2_BinarySearch.java
+-Member3_BubbleSort.java
+-Member4_QuickSort.java
+-TeamRunner.java
 
 
 ## 🧩 Implemented Algorithms
